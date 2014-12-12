@@ -22,3 +22,4 @@ Notes:
   }
 
   but currently the lru condition is just disk percentage(low than 20%), and later will implement the specified config parameter.
+  3. provides restful api to shutdown server: curl http://ip:10000/stop
