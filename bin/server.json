@@ -1,0 +1,11 @@
+{
+	"MaxFileLimit" : 100000,
+	"CheckInterval" : 20,
+	"ExpireDays" : 7,
+	"ErrorLog": true,
+	"AccessLog": false,
+	"SortedSetName": "defset",
+	"HashName": "defhash",
+	"RedisAddr" : "127.0.0.1:6379",
+	"RoutineCount" : 32
+}
