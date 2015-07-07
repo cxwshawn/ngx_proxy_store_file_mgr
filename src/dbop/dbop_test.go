@@ -28,3 +28,7 @@ func Test_UnlockRedis(t *testing.T){
 func Test_tt(){
      return 
 }
+
+func Test_tt1(){
+     print "hello world"
+}
