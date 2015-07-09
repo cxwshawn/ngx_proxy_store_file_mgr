@@ -30,5 +30,5 @@ func Test_tt(){
 }
 
 func Test_tt1(){
-     print "hello world"
+     return
 }
